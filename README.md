@@ -2,7 +2,7 @@
 
 💻 I'm a full-stack developer, 🎓 Electronic Engineer and Project Manager Specialist from 📍 Barranquilla, Colombia . 
 
-I have experience in team leadership 📈 and I an passionate about auto-learn and softwer development.<br>
+I have experience in team leadership 📈 and I am passionate about auto-learn and softwer development.<br>
 🔭 I’m currently working on Javascript, HTML5, CSS3, React JS, Next, Node JS, MongoDB, Express, Git, Tailwind
 
 📫 How to reach me:
